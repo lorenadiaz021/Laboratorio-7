@@ -1,1 +1,1 @@
-#Laboratorio 7 creando el archivo README
+#Este es un repositorio clonodado
